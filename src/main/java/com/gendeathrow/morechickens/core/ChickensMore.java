@@ -81,7 +81,8 @@ public class ChickensMore
 	    		+ "after:actuallyadditions;"
 	    		+ "after:extrautils2;"
 	    		+ "after:refinedstorage;"
-	    		+ "after:techreborn";
+	    		+ "after:techreborn;"
+			+ "before:contenttweaker";
 	    
 	    @Instance(MODID)
 		public static ChickensMore instance;
